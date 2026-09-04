@@ -1,5 +1,5 @@
 {
-  "app_url": "https://shivamonline.gt.tc/student/login.php",
+  "app_url": "https://shivamonline.gt.tc/admin/dashboard.php?i=1",
   "min_version": 1,
   "maintenance": false,
   "message": ""
